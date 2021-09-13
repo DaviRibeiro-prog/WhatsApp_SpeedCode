@@ -1,16 +1,22 @@
-# whatsapp_project
+# WhatsApp_SpeedCode
+A project done in a short period of time to learn and improve skills such as design and componentization.
 
-A new Flutter project.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-## Getting Started
+Loading Screen:
 
-This project is a starting point for a Flutter application.
+![Image 1](https://user-images.githubusercontent.com/76858682/133101784-48e38db1-71ed-4b25-853a-4592f617f3e8.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+Chat Screen:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Image 2](https://user-images.githubusercontent.com/76858682/133101786-9ebada40-df2d-4cd4-bae3-e834f9e9fe33.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Status Screen:
+
+![Image 3](https://user-images.githubusercontent.com/76858682/133101787-0e4476e5-f6e4-4de6-bdf6-3fe85b65435d.jpeg)
+
+Calls Screen:
+
+![Image 4](https://user-images.githubusercontent.com/76858682/133101780-f34b627a-b4db-4656-9812-7f0f1c9b546b.jpeg)
+
+
